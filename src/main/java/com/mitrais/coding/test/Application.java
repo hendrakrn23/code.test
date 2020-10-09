@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Import;
 @SpringBootApplication
 @Import({SpringConfig.class})
 public class Application {
-
+	//test commit
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 	}
